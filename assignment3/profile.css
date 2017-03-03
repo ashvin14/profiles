@@ -1,0 +1,48 @@
+body{
+	background-color: #2e2886;
+}
+
+#name,#location,#birthday{
+	font-family: cursive!important;
+}
+.title{
+	text-align: center;
+	font-size: 10em;
+}
+.friends{
+	background-color: #eee;
+}
+ul{
+	list-style-type: none!important;
+}
+.intro{
+	background-color: #fff!important;
+}
+.friends{
+	display: block!important;
+}
+
+.timeline2{
+	
+    height: 120%!important;
+    background-color: white;
+}
+
+.posts  img{
+	position: relative;
+    top: 7%;
+    left: 0%;
+    height: 80%;
+    width: 100%;
+}
+.description small{
+	
+	overflow: hidden;
+    white-space: nowrap;
+    height: 50px;
+    width: 50px;
+    text-overflow: clip;
+}
+.description{
+	    overflow: scroll;
+}
